@@ -1,5 +1,8 @@
 # Tugas-Sdata
-ini adalah pengumpulan tugas proyek struktur data   
+ini adalah pengumpulan tugas proyek struktur data  
+
+link video presentasi :
+https://youtu.be/6IviUpv7SwE 
     
 data kelompok :
 anggota 1 :  
